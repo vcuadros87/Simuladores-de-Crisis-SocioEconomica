@@ -68,17 +68,11 @@ Nueva demanda        = demanda normal × (1 + % aumento / 100)
 
 ---
 
-## Instalación y uso
 
-1. Clonar o descargar el repositorio.
-2. Abrir `index.html` en cualquier navegador moderno.
-3. No se requiere servidor ni instalación adicional.
-
----
 
 ## Publicación
 
-- **Página web:** _(completar enlace de GitHub Pages / Netlify / Vercel)_
+- **Página web:** _https://vcuadros87.github.io/Simuladores-de-Crisis-SocioEconomica/_
 - **Repositorio Git:** _https://github.com/vcuadros87/Simuladores-de-Crisis-SocioEconomica.git_
 
 ---
