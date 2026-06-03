@@ -79,6 +79,6 @@ Nueva demanda        = demanda normal × (1 + % aumento / 100)
 ## Publicación
 
 - **Página web:** _(completar enlace de GitHub Pages / Netlify / Vercel)_
-- **Repositorio Git:** __
+- **Repositorio Git:** _https://github.com/vcuadros87/Simuladores-de-Crisis-SocioEconomica.git_
 
 ---
